@@ -1,0 +1,404 @@
+{"country": "Estados Unidos"}
+{"country": "Estados Unidos"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "Chile"}
+{"country": "Chile"}
+{"country": "\u0395\u03bb\u03bb\u03ac\u03c2"}
+{"country": "\u0395\u03bb\u03bb\u03ac\u03c2"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Australia"}
+{"country": "Australia"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "Colombia"}
+{"country": "Colombia"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Thailand"}
+{"country": "Thailand"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "India"}
+{"country": "India"}
+{"country": "Malaysia"}
+{"country": "Malaysia"}
+{"country": "Nigeria"}
+{"country": "Nigeria"}
+{"country": "Maldives"}
+{"country": "Maldives"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "Malaysia"}
+{"country": "Malaysia"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "South Africa"}
+{"country": "South Africa"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "India"}
+{"country": "India"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Uruguay"}
+{"country": "Uruguay"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Espanya"}
+{"country": "Espanya"}
+{"country": "France"}
+{"country": "France"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Nederland"}
+{"country": "Nederland"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "Ireland"}
+{"country": "Ireland"}
+{"country": "Espa\u00f1a"}
+{"country": "Espa\u00f1a"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "Venezuela"}
+{"country": "Venezuela"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "France"}
+{"country": "France"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "Estados Unidos"}
+{"country": "Estados Unidos"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Spain"}
+{"country": "Spain"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brazil"}
+{"country": "Brazil"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "New Zealand"}
+{"country": "New Zealand"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Espa\u00f1a"}
+{"country": "Espa\u00f1a"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "Mexico"}
+{"country": "Mexico"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Dominican Republic"}
+{"country": "Dominican Republic"}
+{"country": "Malaysia"}
+{"country": "Malaysia"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "India"}
+{"country": "India"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "Belgique"}
+{"country": "Belgique"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Colombia"}
+{"country": "Colombia"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "Nederland"}
+{"country": "Nederland"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "France"}
+{"country": "France"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "La R\u00e9union"}
+{"country": "La R\u00e9union"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Etats-Unis"}
+{"country": "Etats-Unis"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Espa\u00f1a"}
+{"country": "Espa\u00f1a"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Nederland"}
+{"country": "Nederland"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "M\u00e9xico"}
+{"country": "M\u00e9xico"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "France"}
+{"country": "France"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"}
+{"country": "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "India"}
+{"country": "India"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "Peru"}
+{"country": "Peru"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "Kingdom of Saudi Arabia"}
+{"country": "Kingdom of Saudi Arabia"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "India"}
+{"country": "India"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "India"}
+{"country": "India"}
+{"country": "Malaysia"}
+{"country": "Malaysia"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Sweden"}
+{"country": "Sweden"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Brasil"}
+{"country": "Brasil"}
+{"country": "Polska"}
+{"country": "Polska"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Nederland"}
+{"country": "Nederland"}
+{"country": "Ghana"}
+{"country": "Ghana"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Uganda"}
+{"country": "Uganda"}
+{"country": "Nigeria"}
+{"country": "Nigeria"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "Argentina"}
+{"country": "Argentina"}
+{"country": "India"}
+{"country": "India"}
+{"country": "India"}
+{"country": "India"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Indonesia"}
+{"country": "Colombia"}
+{"country": "Colombia"}
+{"country": "Nederland"}
+{"country": "Nederland"}
+{"country": "India"}
+{"country": "India"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "India"}
+{"country": "India"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "Italia"}
+{"country": "Italia"}
+{"country": "Nigeria"}
+{"country": "Nigeria"}
+{"country": "Italy"}
+{"country": "Italy"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "Republic of the Philippines"}
+{"country": "Republic of the Philippines"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United Kingdom"}
+{"country": "United Kingdom"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
+{"country": "United States"}
